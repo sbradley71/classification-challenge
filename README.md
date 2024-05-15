@@ -10,7 +10,7 @@
 
 # Which model performed better?
 
-# The Random Forest Classifier model, with an accuracy score of 0.9565689467969598 performed better than the Logistic Regression model which had an accuracy score of 0.9565689467969598.
+# The Random Forest Classifier model, with an accuracy score of 0.9565689467969598 performed better than the Logistic Regression model which had an accuracy score of 0.9196525515743756.
 
 
 
